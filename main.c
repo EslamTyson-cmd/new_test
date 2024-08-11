@@ -2,6 +2,8 @@
 /*
 Add `int max_of_four(int a, int b, int c, int d)` here.
 */
+
+void newtest();
 int max_of_four (int , int ,int,int);
 int main() {
     int a, b, c, d;
