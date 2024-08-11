@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1722188436 source:c:\users\dell\documents\hakerrank\main.c
+	<stdio.h>
+	<stdlib.h>
+
